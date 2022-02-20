@@ -1,0 +1,32 @@
+C:\Users\USER\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\USER\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff.resources
+C:\Users\USER\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentRegistration.resources
+C:\Users\USER\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CourseEnrolment.resources
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FeePayment.resources
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff.resources
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentRegistration.resources
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CourseEnrolment.resources
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student.resources
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OutstandingFee.resources
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentInformation.resources
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckSchedule.resources
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tutor.resources
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CheckStudentProfiles.resources
+C:\Users\USER\Desktop\IOOP Assignment\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UpdateClassInformation.resources
